@@ -15,7 +15,7 @@ Clustered TED Talk transcripts by topic using **SentenceTransformers** and **KMe
 - **Cluster Analysis:** Examined cluster distribution, printed sample transcripts, and determined optimal cluster count using **Elbow** and **Silhouette** methods.  
 
 ![Elbow Method](images/Elbowmethod.png)  
-![Silhouette Method](images/silhouttemethod.png)
+![Silhouette Method](images/sihlouttemethod.png)
 
 ## Key Outcomes
 
